@@ -607,9 +607,6 @@ export default function App() {
 				<a style={{display: 'block'}} href="https://minaprotocol.com/about/" target="_blank" rel="noopener noreferrer" >
 						<span className={styles.aboutpg}> </span>
 					</a>
-				
-				
-
 			</div>
 					
 			</div>
